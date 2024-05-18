@@ -198,6 +198,9 @@ div div div ul li {
     color: #ffffff;
 }
 
+.logoText:hover {
+    color: yellow;
+}
 
 
 
